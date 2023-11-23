@@ -30,5 +30,5 @@ This is a simple Express project that demonstrates Auth0 authentication integrat
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/express-auth0-project.git
-cd express-auth0-project
+git clone https://github.com/umarfarooq3377/Auth0Express.git
+cd Auth0Express
